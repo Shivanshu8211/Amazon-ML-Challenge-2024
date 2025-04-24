@@ -1,0 +1,102 @@
+index,image_link,group_id,entity_name,predicted_value
+0,https://m.media-amazon.com/images/I/110EibNyclL.jpg,156839,height,6.65in
+1,https://m.media-amazon.com/images/I/11TU2clswzL.jpg,792578,width,poster<loc_0><loc_0>
+2,https://m.media-amazon.com/images/I/11TU2clswzL.jpg,792578,height,poster<loc_0><loc_0>
+3,https://m.media-amazon.com/images/I/11TU2clswzL.jpg,792578,depth,poster<loc_0><loc_0>
+4,https://m.media-amazon.com/images/I/11gHj8dhhrL.jpg,792578,depth,poster<loc_0><loc_0>
+5,https://m.media-amazon.com/images/I/11gHj8dhhrL.jpg,792578,height,poster<loc_0><loc_0>
+6,https://m.media-amazon.com/images/I/11gHj8dhhrL.jpg,792578,width,poster<loc_0><loc_0>
+7,https://m.media-amazon.com/images/I/11lshEUmCrL.jpg,156839,height,3.56cm
+8,https://m.media-amazon.com/images/I/21+i52HRW4L.jpg,478357,width,40 cm30 cm
+9,https://m.media-amazon.com/images/I/21-LmSmehZL.jpg,478357,height,40 cm30 cm
+10,https://m.media-amazon.com/images/I/213oP6n7jtL.jpg,953313,item_weight,mobile phone_weight
+11,https://m.media-amazon.com/images/I/213wY3gUsmL.jpg,276611,width,30.6cm
+12,https://m.media-amazon.com/images/I/214CLs1oznL.jpg,648011,depth,4.3 in
+13,https://m.media-amazon.com/images/I/214CLs1oznL.jpg,648011,height,4.3 in
+14,https://m.media-amazon.com/images/I/214CLs1oznL.jpg,648011,width,4.3 in
+15,https://m.media-amazon.com/images/I/216rjgJHAeL.jpg,279307,item_weight,item_weight<poly>
+16,https://m.media-amazon.com/images/I/2174yonQBtL.jpg,569206,maximum_weight_recommendation,-recommendation
+17,https://m.media-amazon.com/images/I/218BCzgKxuL.jpg,348551,item_weight,light switch_weight
+18,https://m.media-amazon.com/images/I/218BCzgKxuL.jpg,348551,wattage,BlackRedGreen
+19,https://m.media-amazon.com/images/I/218BCzgKxuL.jpg,348551,voltage,BlackRedGreen208
+20,https://m.media-amazon.com/images/I/21BMc5GC4iL.jpg,442321,width,76cm120cm
+21,https://m.media-amazon.com/images/I/21CxlWbim3L.jpg,751532,width,"7"""
+22,https://m.media-amazon.com/images/I/21DZ7BAZ6-L.jpg,498074,item_volume,item_volume<poly>
+23,https://m.media-amazon.com/images/I/21GLFXwC1mS.jpg,178958,width,835 cm
+24,https://m.media-amazon.com/images/I/21GLFXwC1mS.jpg,178958,depth,835 cm
+25,https://m.media-amazon.com/images/I/21H+7R85YZL.jpg,752266,width,T3.8
+26,https://m.media-amazon.com/images/I/21H+7R85YZL.jpg,752266,depth,3.8 in
+27,https://m.media-amazon.com/images/I/21IGmiJi-PL.jpg,953313,item_weight,mobile phone<loc_29><loc_90>
+28,https://m.media-amazon.com/images/I/21Is45vdL0L.jpg,965518,item_weight,item_weight<poly>
+29,https://m.media-amazon.com/images/I/21Raw7jSIML.jpg,957050,item_weight,item_weight<poly>
+30,https://m.media-amazon.com/images/I/21Vc5ixqKpS.jpg,486636,item_weight,knife_weight<poly>
+31,https://m.media-amazon.com/images/I/21W7FvftSCL.jpg,329793,item_weight,knife_weight<poly>
+32,https://m.media-amazon.com/images/I/21aD6ktvwxS.jpg,113134,width,5.8 in
+33,https://m.media-amazon.com/images/I/21aD6ktvwxS.jpg,113134,depth,5.8 in
+34,https://m.media-amazon.com/images/I/21aD6ktvwxS.jpg,113134,height,5.8 in
+35,https://m.media-amazon.com/images/I/21bfrFeArAL.jpg,601746,item_weight,item_weight<poly>
+36,https://m.media-amazon.com/images/I/21bwWoCpGJL.jpg,156839,height,0.5-
+37,https://m.media-amazon.com/images/I/21cLufe8Y5L.jpg,648011,voltage,item
+38,https://m.media-amazon.com/images/I/21cLufe8Y5L.jpg,648011,wattage,wattage<poly>
+39,https://m.media-amazon.com/images/I/21d6Dtc94mL.jpg,244283,depth,5.4 in
+40,https://m.media-amazon.com/images/I/21d6Dtc94mL.jpg,244283,width,5.4 in
+41,https://m.media-amazon.com/images/I/21fIe0wHxDL.jpg,751532,height,"7"""
+42,https://m.media-amazon.com/images/I/21jOOqo0oZL.jpg,244283,width,48 in122 cm
+43,https://m.media-amazon.com/images/I/21jOOqo0oZL.jpg,244283,height,48 in122 cm
+44,https://m.media-amazon.com/images/I/21lqVGTzV1L.jpg,478357,height,60 cm23.
+45,https://m.media-amazon.com/images/I/21m65YQrQdL.jpg,249345,depth,T5.8
+46,https://m.media-amazon.com/images/I/21m65YQrQdL.jpg,249345,height,T5.8
+47,https://m.media-amazon.com/images/I/21m65YQrQdL.jpg,249345,width,T5.8
+48,https://m.media-amazon.com/images/I/21nEy7KBQlL.jpg,244283,width,35 in90 cm
+49,https://m.media-amazon.com/images/I/21nEy7KBQlL.jpg,244283,depth,35 in90 cm
+50,https://m.media-amazon.com/images/I/21nEy7KBQlL.jpg,244283,height,35 in90 cm
+51,https://m.media-amazon.com/images/I/21pFwZ8ghkL.jpg,955292,item_weight,nail_weight
+52,https://m.media-amazon.com/images/I/21pFwZ8ghkL.jpg,955292,wattage,wattage<poly>
+53,https://m.media-amazon.com/images/I/21qcJWXFNkL.jpg,916768,depth,5 in - 12
+54,https://m.media-amazon.com/images/I/21qcJWXFNkL.jpg,916768,height,5 in - 12
+55,https://m.media-amazon.com/images/I/21qgWY60ABL.jpg,751532,width,12.7cm
+56,https://m.media-amazon.com/images/I/21qleENrBBL.jpg,953313,item_weight,item_weight<loc_0>
+57,https://m.media-amazon.com/images/I/21s+qly8nXL.jpg,244283,depth,5.4 in
+58,https://m.media-amazon.com/images/I/21s+qly8nXL.jpg,244283,width,5.4 in
+59,https://m.media-amazon.com/images/I/21tOerzlVML.jpg,957050,wattage,14-inch MacBook
+60,https://m.media-amazon.com/images/I/21tOerzlVML.jpg,957050,voltage,14-inch MacBook
+61,https://m.media-amazon.com/images/I/21twwj6e-VL.jpg,297918,item_weight,item_weight<poly>
+62,https://m.media-amazon.com/images/I/21vCDAVwSXS.jpg,752266,height,Height:28mm
+63,https://m.media-amazon.com/images/I/21vCDAVwSXS.jpg,752266,depth,1.8m
+64,https://m.media-amazon.com/images/I/21vCDAVwSXS.jpg,752266,width,widthwidthwidthheight
+65,https://m.media-amazon.com/images/I/21vv80MKQEL.jpg,709627,voltage,L-ion 10
+66,https://m.media-amazon.com/images/I/21xX4tzOqKL.jpg,953313,item_weight,item_weight<poly>
+67,https://m.media-amazon.com/images/I/21xnCHoPZHL.jpg,156839,height,"7.5"""
+68,https://m.media-amazon.com/images/I/21ykCJJsDpL.jpg,648011,width,4.2 in
+69,https://m.media-amazon.com/images/I/21ykCJJsDpL.jpg,648011,height,4.2 in
+70,https://m.media-amazon.com/images/I/21ykCJJsDpL.jpg,648011,depth,4.2 in
+71,https://m.media-amazon.com/images/I/21ztnqtFNVL.jpg,752266,width,9.1 in
+72,https://m.media-amazon.com/images/I/21ztnqtFNVL.jpg,752266,height,9.1 in
+73,https://m.media-amazon.com/images/I/21ztnqtFNVL.jpg,752266,depth,9.1 in
+74,https://m.media-amazon.com/images/I/31+1xiVjZBL.jpg,997176,wattage,230mm
+75,https://m.media-amazon.com/images/I/31+1xiVjZBL.jpg,997176,voltage,230mmCapacity
+76,https://m.media-amazon.com/images/I/31+21njYcOL.jpg,558806,height,4.7 in
+77,https://m.media-amazon.com/images/I/31+21njYcOL.jpg,558806,depth,4.7 in
+78,https://m.media-amazon.com/images/I/31+B4SvByXL.jpg,953313,item_weight,mobile phone_weight
+79,https://m.media-amazon.com/images/I/31+H+PVsNEL.jpg,801829,height,Size: 120x
+80,https://m.media-amazon.com/images/I/31+KMtY+QXL.jpg,630390,item_weight,item_weight<poly>
+81,https://m.media-amazon.com/images/I/31+KPbkPVPL.jpg,488883,maximum_weight_recommendation,Load Capacity243 L
+82,https://m.media-amazon.com/images/I/31+NHijx4tL.jpg,933453,item_weight,chair_weight<poly>
+83,https://m.media-amazon.com/images/I/31+RAxx7XaL.jpg,411423,item_weight,item_weight<poly>
+84,https://m.media-amazon.com/images/I/31+X1Lh3+eL.jpg,469317,height,T39 in98
+85,https://m.media-amazon.com/images/I/31+X1Lh3+eL.jpg,469317,width,T39 in98
+86,https://m.media-amazon.com/images/I/31+X1Lh3+eL.jpg,469317,depth,T39 in98
+87,https://m.media-amazon.com/images/I/31+kevQrOnL.jpg,860821,wattage,The Higher the CF
+88,https://m.media-amazon.com/images/I/31+kevQrOnL.jpg,860821,voltage,The Higher the CF
+89,https://m.media-amazon.com/images/I/31+kevQrOnL.jpg,860821,item_weight,item_weight<poly>
+90,https://m.media-amazon.com/images/I/31+nz2egbjL.jpg,311997,width,60 cm26 cm
+91,https://m.media-amazon.com/images/I/31+qzYwhJ9L.jpg,442321,maximum_weight_recommendation,Includes wallBuilt-
+92,https://m.media-amazon.com/images/I/31+sbhHNfYS.jpg,311997,width,400 mm(15
+93,https://m.media-amazon.com/images/I/31+zGAugKrL.jpg,178958,height,"23.95"""
+94,https://m.media-amazon.com/images/I/31+zdbOuiTL.jpg,279307,item_weight,item_weight<poly>
+95,https://m.media-amazon.com/images/I/31-4a-yI8sS.jpg,932012,height,14cm/5
+96,https://m.media-amazon.com/images/I/31-4a-yI8sS.jpg,932012,width,14cm/5
+97,https://m.media-amazon.com/images/I/31-4uQ1S2XL.jpg,709627,voltage,100mm56mm
+98,https://m.media-amazon.com/images/I/31-7OAd1COL.jpg,311997,height,3.8 cm
+99,https://m.media-amazon.com/images/I/31-8fLBjX8L.jpg,120219,depth,14.9 in
+100,https://m.media-amazon.com/images/I/31-A90GRAHL.jpg,469317,height,37in94cm
